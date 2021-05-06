@@ -1,0 +1,2 @@
+# COVID-ResNet-paddlepaddle
+基于飞桨paddlepaddle的Resnet实现新冠肺炎CT照的分类
